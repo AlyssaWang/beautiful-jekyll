@@ -23,7 +23,6 @@ description: Alyssa Wang's projects and work for HCI.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Assignments:
     - Good Design: "http://deanattali.com/beautiful-jekyll/"
     - Bad Design: "http://deanattali.com/beautiful-jekyll/"
