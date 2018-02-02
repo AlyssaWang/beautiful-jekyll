@@ -12,7 +12,7 @@ After some reflection, Mission Hall is an example of good design for the followi
 - The structure of the dining hall follows a straightforward path of travel that other dining halls do not reflect; there is no getting lost in this dining hall like there is in Whitman's or Driscoll.
 - The placement of tables allows for variation of different group sizes. Smaller tables work for smaller groups of students or even students by themselves, while big tables exist for larger groups, such as sports teams or entries.
 
-![Mission](https://github.com/AlyssaWang/csci376/blob/gh-pages/mission/Mission_1.JPG)
+![Mission](./mission/Mission_1.JPG)
 ![Mission](https://github.com/AlyssaWang/csci376/tree/gh-pages/mission/Mission_2.JPG)
 ![Mission](https://github.com/AlyssaWang/csci376/tree/gh-pages/mission/Mission_3.JPG)
 ![Mission](https://github.com/AlyssaWang/csci376/tree/gh-pages/mission/Mission_4.JPG)
