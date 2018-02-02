@@ -22,5 +22,5 @@ After some reflection, Hopkins Hall is an example of bad design for the followin
 ![Hopkins](./hopkins/Hopkins_5.JPG)
 ![Hopkins](./hopkins/Hopkins_6.JPG)
 ![Hopkins](./hopkins/Hopkins_7.JPG)
-![Hopkins](./hopkins/Hopkins_8.JPG)
 ![Hopkins](./hopkins/Hopkins_9.JPG)
+![Hopkins](./hopkins/Hopkins_10.JPG)
