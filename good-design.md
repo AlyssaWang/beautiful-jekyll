@@ -13,8 +13,8 @@ After some reflection, Mission Hall is an example of good design for the followi
 - The placement of tables allows for variation of different group sizes. Smaller tables work for smaller groups of students or even students by themselves, while big tables exist for larger groups, such as sports teams or entries.
 
 ![Mission](./mission/Mission_1.JPG)
-![Mission](https://github.com/AlyssaWang/csci376/tree/gh-pages/mission/Mission_2.JPG)
-![Mission](https://github.com/AlyssaWang/csci376/tree/gh-pages/mission/Mission_3.JPG)
-![Mission](https://github.com/AlyssaWang/csci376/tree/gh-pages/mission/Mission_4.JPG)
-![Mission](https://github.com/AlyssaWang/csci376/tree/gh-pages/mission/Mission_5.JPG)
-![Mission](https://github.com/AlyssaWang/csci376/tree/gh-pages/mission/Mission_6.JPG)
+![Mission](./mission/Mission_2.JPG)
+![Mission](./mission/Mission_3.JPG)
+![Mission](./mission/Mission_4.JPG)
+![Mission](./mission/Mission_5.JPG)
+![Mission](./mission/Mission_6.JPG)
