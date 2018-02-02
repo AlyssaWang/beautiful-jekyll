@@ -3,68 +3,24 @@ layout: page
 title: Bad Design
 subtitle: Hopkins
 ---
+I chose Hopkins because it is an integral building on campus that typically has a reputation for being terribly designed. There was even controversy at one point about how the building is not wheelchair accessible because it would ruin the overall look of the building. Generally, this is an example of a building made for  appearance over use.
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+After some reflection, Hopkins Hall is an example of bad design for the following reasons:
+- It is not wheelchair accessible, despite having some key administrative offices.
+- It can be difficult to tell where doors are, given that there are mirrored facades that mimic the doors in the building placed next to said doors.
+- Staircases from one floor to the next lead into each other, which could be a safety concern, but is more disconcerting than anything else when someone is on their way down.
+- The front of the building has four staircases: two for the 1st floor, and two for the basement. Is this logical? No. Why did they do that? No one knows.
+- The upper floors look extremely similar. It can be difficult to differentiate one from another.
+- The bottommost floor has low ceilings, so much so that a person of even slightly above average height might feel claustrophobic.
+- In some of the classrooms, the chairs are connected to the floor so that they can't move in any direction. They can, however, swivel. Again, why? No one knows.
+- Oh, and about the chairs - the ones in the back of the classroom tend to make it difficult for anyone to pass by them, because they are basically right up against the walls.
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+![Hopkins](./hopkins/Hopkins_1.JPG)
+![Hopkins](./hopkins/Hopkins_2.JPG)
+![Hopkins](./hopkins/Hopkins_3.JPG)
+![Hopkins](./hopkins/Hopkins_4.JPG)
+![Hopkins](./hopkins/Hopkins_5.JPG)
+![Hopkins](./hopkins/Hopkins_6.JPG)
+![Hopkins](./hopkins/Hopkins_7.JPG)
+![Hopkins](./hopkins/Hopkins_8.JPG)
+![Hopkins](./hopkins/Hopkins_9.JPG)
