@@ -10,7 +10,7 @@ But, because of the work it takes to actually engage with such questions, people
 
 ![WCMA](https://wcma.williams.edu/files/2017/05/WCMA-Mar.-2017-Lex-and-Love-Meleko-Mokgosi-034-lpr-1.jpg)
 
-*https://wcma.williams.edu/news-item/lex-and-love-meleko-mokgosi/*
+[Source](https://wcma.williams.edu/news-item/lex-and-love-meleko-mokgosi/)
 
 **Context**
 
@@ -20,12 +20,12 @@ This extends beyond just the museum as a location. On a daily basis, there are v
 - Going shopping for groceries and spotting something you've never tried before, but not knowing enough about it to buy it in case you don't like it.
 Answering these questions is a great way to pick up all types of interesting knowledge, try new things, and become more curious about the world around you.
 
-There are currently technologies in place that do similar things. For instance, Shazam is a great example of an app that addressed this problem for music (Shazam helps a user identify a song that is playing). This is especially useful because it is spontaneous, natural, and persistent. It assumes the user would be in a situation where asking for the song title is inconvenient or impossible, it is a naturally occurring and common situation that is not limited by location, and it remembers songs that have been "Shazamed." In this way, the app has become wildly popular with 120 million active users (https://expandedramblings.com/index.php/shazam-statistics/) because it integrates well with daily life.
+There are currently technologies in place that do similar things. For instance, Shazam is a great example of an app that addressed this problem for music (Shazam helps a user identify a song that is playing). This is especially useful because it is spontaneous, natural, and persistent. It assumes the user would be in a situation where asking for the song title is inconvenient or impossible, it is a naturally occurring and common situation that is not limited by location, and it remembers songs that have been "Shazamed." In this way, the app has become wildly popular with 120 million active users [Source](https://expandedramblings.com/index.php/shazam-statistics/) because it integrates well with daily life.
 
 ![Shazam](./shazam/shazam1.JPG)
 ![Shazam2](./shazam/shazam2.JPG)
 
-*https://expandedramblings.com/index.php/shazam-statistics/*
+[Source](https://expandedramblings.com/index.php/shazam-statistics/)
 
 **Project Details**
 
@@ -35,4 +35,4 @@ This would remove the experience of asking other people about the item in questi
 
 ![Learning](https://www.nmbu.no/sites/default/files/styles/bildebanner_med_tekst/public/bannerbilde_cropped.png?itok=RU3IS6Zv)
 
-*https://www.nmbu.no/en/employees/learning-center*
+[Source](https://www.nmbu.no/en/employees/learning-center)
