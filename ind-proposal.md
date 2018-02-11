@@ -3,7 +3,7 @@ layout: page
 title: Individual Project Proposal
 subtitle: Identify
 ---
-**Motivation**
+# Motivation
 
 On a regular day, people find themselves wondering things about the world around them on a regular basis. Most of these curiosities go unaddressed because the effort it would take to answer them tends to outweigh whatever details they could learn. At WCMA and other museums, this manifests itself in questions about a particular piece of art, a featured artist, an exhibited culture or identity, or even the building itself.
 But, because of the work it takes to actually engage with such questions, people push them to the side and ultimately forget about them.
@@ -12,7 +12,7 @@ But, because of the work it takes to actually engage with such questions, people
 
 [Source](https://wcma.williams.edu/news-item/lex-and-love-meleko-mokgosi/)
 
-**Context**
+# Context
 
 This extends beyond just the museum as a location. On a daily basis, there are various forms of artwork, literature, ideas, and objects that raise questions. Imagine, for example:
 - Seeing an interesting book on someone's desk and wanting to look into it, but not being able to remember the title later.
@@ -27,7 +27,7 @@ There are currently technologies in place that do similar things. For instance, 
 
 [Source](https://expandedramblings.com/index.php/shazam-statistics/)
 
-**Project Details**
+# Project Details
 
 The goal of this project would be to create something similar, but for pictures. A user would be able to take a picture of something (art, book covers, etc.) and pull up some general information about the item. Upon request, they could search for more details, or they could save it for later. In the same way that Shazam or Snapchat make it easy to instantly pull up the app and remember some piece of information, this project would retain searches and bookmarked results. Furthermore, with enough information, this project may ultimately be able to recommend other interesting items or locations to the user.
 
