@@ -22,8 +22,8 @@ Answering these questions is a great way to pick up all types of interesting kno
 
 There are currently technologies in place that do similar things. For instance, Shazam is a great example of an app that addressed this problem for music (Shazam helps a user identify a song that is playing). This is especially useful because it is spontaneous, natural, and persistent. It assumes the user would be in a situation where asking for the song title is inconvenient or impossible, it is a naturally occurring and common situation that is not limited by location, and it remembers songs that have been "Shazamed." In this way, the app has become wildly popular with 120 million active users [Source](https://expandedramblings.com/index.php/shazam-statistics/) because it integrates well with daily life.
 
-![Shazam](./shazam/shazam1.JPG)
-![Shazam2](./shazam/shazam2.JPG)
+![Shazam](./shazam/shazam1.png)
+![Shazam2](./shazam/shazam2.png)
 
 [Source](https://expandedramblings.com/index.php/shazam-statistics/)
 
