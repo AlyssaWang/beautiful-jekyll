@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Individual Project Proposal
+title: Ind. Project Proposal
 subtitle: Identify
 ---
 # Motivation
 
 On a regular day, people find themselves wondering things about the world around them on a regular basis. Most of these curiosities go unaddressed because the effort it would take to answer them tends to outweigh whatever details they could learn. At WCMA and other museums, this manifests itself in questions about a particular piece of art, a featured artist, an exhibited culture or identity, or even the building itself.
-But, because short-term memory is [notoriously transient] (https://www.simplypsychology.org/short-term-memory.html), people forget about these questions and move on. In fact,
+But, because short-term memory is [notoriously transient](https://www.simplypsychology.org/short-term-memory.html), people forget about these questions and move on. In fact,
 - Typical short term memory lasts at most 30 seconds,
-- Can only store about 7 items, and 
+- Can only store about 7 items, and
 - Deteriorates heavily with the passing of time.
 
 ![WCMA](https://wcma.williams.edu/files/2017/05/WCMA-Mar.-2017-Lex-and-Love-Meleko-Mokgosi-034-lpr-1.jpg)
