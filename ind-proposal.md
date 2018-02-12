@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Ind. Project Proposal
-subtitle: Identify
+title: Identify
+subtitle: Individual Project Proposal
 ---
 # Motivation
 
-On a regular day, people find themselves wondering things about the world around them on a regular basis. Most of these curiosities go unaddressed because the effort it would take to answer them tends to outweigh whatever details they could learn. At WCMA and other museums, this manifests itself in questions about a particular piece of art, a featured artist, an exhibited culture or identity, or even the building itself.
+On a typical day, people find themselves wondering things about the world around them on a regular basis. Most of these curiosities go unaddressed because the effort it would take to answer them tends to outweigh whatever details they could learn. At WCMA and other museums, this manifests itself in questions about a particular piece of art, a featured artist, an exhibited culture or identity, or even the building itself.
 But, because short-term memory is [notoriously transient](https://www.simplypsychology.org/short-term-memory.html), people forget about these questions and move on. In fact, typical short term memory
 - lasts at most 30 seconds,
 - can only store about 7 items, and
