@@ -20,9 +20,9 @@ Ethics has played a significant role in how we chose to design Pin. This is most
 
 For starters, it would be unethical for anyone to have full access to anyone else’s information. Our platform is intended to be used as an interactive way for people to learn about the world about them, and is not meant to serve as a form of social media. With this in mind, we are opting towards anonymity, but we also received feedback that indicated interest in being able to interact with people they knew outside of the application. One user during our user tests suggested Snapchat integration, since Snapchat is similar in that it allows people to make posts in the moment about what they are experiencing or doing. This led to the design of a “Friends” feature, which may be appealing to users who would want to make Pins in an area they are familiar with, targeted at people they live near (neighbors, friends, family, etc.). Since this was not the focus of our project, there are still some kinks left to be ironed out--namely, the lack of a “Requests” tab so users can screen other users.
 
-![Profile1](./manifesto/profile_1.png)
-![Profile2](./manifesto/profile_2.png)
-![Profile3](./manifesto/profile_3.png)
+![Profile](./manifesto/profile_1.png =100x40)
+![Profile](./manifesto/profile_2.png =100x40)
+![Profile](./manifesto/profile_3.png =100x40)
 
 However, we also came across the ethical issue of tracking the location of users, which falls under “The Right to Data Agency” in “The Signal Code” (Harvard Humanitarian Initiative 17-18). This is even more significant today because of the prevalence of location tracking, which has been an issue with Snapchat, Google Maps and Facebook. We should not collect location data for any reason other than for creating Pins, and we do not want other users to be able to find that information. Beyond not storing this data, we wanted to discourage people from connecting their real life to locations and having others aware of their daily routines. As a result, we determined that anonymity was a worthwhile goal for most of our target audience. So, when we were brainstorming our six main tasks, we decided to add “Holding Anonymous Discussions” to our [task list](http://www.lester-lee.com/curious-places//2018/03/05/task_review/ ) and wrote a scenario about a character that would find value in anonymity.
 
