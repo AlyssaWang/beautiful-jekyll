@@ -32,12 +32,26 @@ Accessibility also figured prominently in our design process and our considerati
 
 We also considered other designs beyond our smartphone app that were more accessible for vision-impaired individuals. In our ideation phase, [one of our designs](http://www.lester-lee.com/curious-places//2018/03/08/design_checkin/) was a smartwatch app that largely used voice recognition. Since the screen on a smartwatch is small, having alternate methods of input was important, which ultimately made the design more accessible for some users. While we did not select this design because the platform was limited and relatively uncommon, thinking about potential ways that our users might interact with our app definitely guided us to a more universally usable design.
 
+![Website](./manifesto/website.png)
+
 Accessibility helped us focus on our users and simplified our design so that it was clear for everyone. Without keeping this in mind, it’s possible that we would have valued ourselves over our users while developing our idea, but this way we could try to put our users first.
 
 **Communication**
 
 User communication occured at all stages of development for Pin. We started with [contextual inquiries](http://www.lester-lee.com/curious-places//2018/02/26/ci_checkin/),where we interviewed and observed a geocacher, a birdwatcher, and visitors at the Clark Art Institute. Having this insight into some potential users was helpful in narrowing down what features we wanted to support most, but it was also crucial in identifying and delving deeper into the problem we were attempting to solve. By talking to people and watching their behavior, we learned that there was nuance to the kinds of questions they asked as they explored and that there were other interesting problems that arose as a result of having these questions (immersion in an experience, for instance).
 
+![Contextual Inquiry](./manifesto/clark.png)
+
 We also interacted with users when testing our paper prototypes ([heuristic evaluations](http://www.lester-lee.com/curious-places//2018/04/09/heuristic_eval/) and [usability tests](http://www.lester-lee.com/curious-places//2018/04/16/usability_tests/)). We had people sit down with our initial physical design and provide feedback. When we did this, we were able to determine that our design had 1) a number of aesthetic choices that made the navigation confusing and 2) ambiguity in purpose and features. Our users were from different backgrounds, which helped us see a variety of issues that might come up depending on skill level and comfort with technology, especially with a touch screen. Where one of our users understood and completed our tasks in a very short amount of time, another struggled with understanding our interface. These experiences then led us to make changes that we hoped would prevent as much user error as possible, following guidance from “Color and Layout on Small Screens” (from Designing for Small Screens).
 
 All in all, receiving feedback from users for the duration of our design process (from ideation to prototyping) allowed us to pinpoint where we had problems and where our users had problems and find satisfactory solutions, improving the overall design.
+
+**Iteration**
+
+There were several iterations of the design, from our initial brainstorm to our final digital prototype. Each iteration was able to bring something better to the final idea and in doing so, also fixed issues that our users commented on. From our [initial paper prototype](http://www.lester-lee.com/curious-places//2018/04/05/old_paper_prototype/) to our [final paper prototype](http://www.lester-lee.com/curious-places//2018/04/05/paper_prototype/), we renamed and made all of our buttons consistent, added a number of alert and dialogue boxes, and added extra features that would support our tasks in more specific situations (a “Help” menu, a “Profile” option to view previously saved tasks, etc.). These are described in our user testing, which can be found [here](http://www.lester-lee.com/curious-places//2018/04/16/usability_tests/). By making these changes, we eliminated some of the confusion that users were encountering when uploading files, making Pins, and interacting with the map.
+
+Then from our final paper prototype to our digital mockup, we made even more changes, which included moving buttons out of the text box, allowing users to view all responses to a Pin at once, and generally cleaning up the interface. These changes kept and improved what users had described positively (obvious imagery and symbols, straightforward screens with few steps, and engagement with the user) while removing more insidious problems (confusion about saving versus posting, deletion of uploaded files, and unclear Pin placement).
+
+![Prototypes](./manifesto/prototypes.png)
+
+Overall, iteration has been very useful for our final design by informing us which ideas were good, and should be retained, and which ideas were unhelpful, and should be removed or improved.
